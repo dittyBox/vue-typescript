@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vite preview",
+    "serve": "vite preview --port 8081",
     "build": "vite build",
     "lint": "vue-cli-service lint",
     "dev": "vite --port 8081"
